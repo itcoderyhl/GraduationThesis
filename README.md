@@ -41,7 +41,7 @@
 
 
 
-## 课设清单
+## Java课设清单
 
 ![课设清单](http://www.xiaoniucr.com/uploadImage/article/2021/0803/58c9c35acb334094a5ea701b86fa6c2d.png)
 
